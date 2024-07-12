@@ -6,6 +6,11 @@ The Google Play Store team has recently launched an exciting new feature designe
 
 The  objective of this project is to identify which apps are suitable for promotion by Google. App ratings, provided by customers, serve as a reliable indicator of an app's quality. Therefore, the project aims to predict which apps will achieve high ratings, helping Google to effectively promote promising apps with the new visibility-boosting feature.
 
+
+
+![Google play store Dashboard](https://github.com/user-attachments/assets/d2a5cc79-61b3-476f-8cd9-aaf72af7c06f)
+
+
 #### Data set 
 The "Google Play Store" dataset provides comprehensive information on apps, including categories of apps, pricing, installs, and user reviews and ratings. With a focus on app optimization, it offers valuable insights into market trends, pricing dynamics, and user preferences within the app industry.
 
