@@ -65,7 +65,7 @@ The data processing involves cleaning the dataset to remove any inconsistencies,
 ##### Free vs Paid Apps
 - Comparison between free and paid apps in terms of installs, ratings, and reviews.
 
-##### Top 10 Most Rated and Reviewed Apps
+##### Top 10 Most Rated and Reviewed Apps Category
 - Identification of the top 10 apps with the highest number of ratings and reviews.
 
 ##### Top 5 Apps Reviewed and Rated
